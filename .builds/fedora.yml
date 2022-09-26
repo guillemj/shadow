@@ -8,6 +8,7 @@ packages:
   - gettext
   - gettext-devel
   - git
+  - libbsd-devel
   - libselinux-devel
   - libsemanage-devel
   - libtool

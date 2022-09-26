@@ -9,6 +9,7 @@ packages:
   - gettext
   - gettext-dev
   - gettext-lang
+  - libbsd-dev
   - libcap-dev
   - libtool
   - linux-pam-dev

@@ -3,6 +3,7 @@ packages:
   - automake
   - autopoint
   - xsltproc
+  - libbsd-dev
   - libselinux1-dev
   - gettext
   - expect
